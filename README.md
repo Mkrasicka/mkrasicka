@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Magdalena</h1>
 <h3 align="center">Recently finished Web Developer bootcamp. Looking forward to dive deeper into tech world.</h3>
 
-- 📫 How to reach me **krasickamagdalena@gmail.ocm**
+- 🧫 2022 Le Wagon bootcamp graduate **Javascript 30 Days challenge**
+
+- 📫 How to reach me [krasickamagdalena@gmail.com](krasickamagdalena@gmail.com)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/magdalena-krasicka-339476206/](https://www.linkedin.com/in/magdalena-krasicka-339476206/)
+
+- 👨‍💻 All of my projects are available at **https://troopl.com/krasickamagdalena**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
