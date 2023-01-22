@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Magdalena</h1>
 <h3 align="center">Recently finished Web Developer bootcamp. Looking forward to dive deeper into tech world.</h3>
 
-- 🧫 2022 Le Wagon bootcamp graduate **Javascript 30 Days challenge**
+- 🧫 2022 Le Wagon bootcamp **graduate**
+
+- 👟 Sneaker marketplace, Rails Airbnb clone (group project) **SeekASneaker**
+
+- 🔭 I’m currently working on Javascript challenges from **WesBoss**
+
+- 🔭 My favourite web developer podcast **- Syntax**
 
 - 📫 How to reach me [krasickamagdalena@gmail.com](krasickamagdalena@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/magdalena-krasicka-339476206/](https://www.linkedin.com/in/magdalena-krasicka-339476206/)
+
+- 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) GimmeGolf **GimmeGolf**
 
 - 👨‍💻 All of my projects are available at **https://troopl.com/krasickamagdalena**
 
