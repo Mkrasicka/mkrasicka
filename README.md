@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Javascript challenges from **WesBoss**
 
-- 🔭 My favourite web developer podcast **- Syntax**
+- 🎤 My favourite web developer podcast **- Syntax**
 
 - 📫 How to reach me [krasickamagdalena@gmail.com](krasickamagdalena@gmail.com)
 
