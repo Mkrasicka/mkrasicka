@@ -5,7 +5,7 @@
 
 - 👟 Sneaker marketplace, Rails Airbnb clone (group project) **SeekASneaker**
 
-- 🔭 I’m currently working on Javascript challenges from **WesBoss**
+- 🔭 I’m currently learning Golang.
 
 - 🎤 My favourite web developer podcast **- Syntax**
 
