@@ -13,9 +13,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/magdalena-krasicka-339476206/](https://www.linkedin.com/in/magdalena-krasicka-339476206/)
 
-- 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) GimmeGolf **GimmeGolf**
+- 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) **GimmeGolf**
 
-- 👨‍💻 All of my projects are available at **https://troopl.com/krasickamagdalena**
+- 👨‍💻 All of my projects are available at **https://magdalenakrasicka.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
