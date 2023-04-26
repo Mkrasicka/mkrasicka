@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Magdalena</h1>
 <h3 align="center">Recently finished Web Developer bootcamp at Le Wagon</h3>
 
-- 👨‍💻 My portfolio:  **https://magdalenakrasicka.com/**
+- My portfolio:  **https://magdalenakrasicka.com/**
 
 - E-mail: krasickamagdalena@gmail.com
 
-- 📄 Know about my experiences https://www.linkedin.com/in/mkrasicka
+- Know about my experiences https://www.linkedin.com/in/mkrasicka
 
 
 - I've contributed to:
@@ -22,10 +22,10 @@
   -  building project Task Manager in Ruby
   
 
-- 🔭 I'm looking forward to polish JS, and start working with AWS, and React.
+- I'm looking forward to polish JS, and start working with AWS, and React.
 
 
-- 🎤 My favourite web developer podcast **Syntax**
+- My favourite web developer podcast **Syntax**
 
 
 <h3 align="left">Connect with me:</h3>
