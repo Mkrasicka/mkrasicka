@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm Magdalena</h1>
-<h3 align="center">Recently finished Web Developer bootcamp. Looking forward to dive deeper into tech world.</h3>
+<h3 align="center">Recently finished Web Developer bootcamp at Le Wagon</h3>
 
-- 🧫 2022 Le Wagon bootcamp **graduate**
+- 👨‍💻 My portfolio:  **https://magdalenakrasicka.com/**
 
-- 👟 Sneaker marketplace, Rails Airbnb clone (group project) **SeekASneaker**
+- E-mail: krasickamagdalena@gmail.com](krasickamagdalena@gmail.com)
 
-- 🔭 I’m currently learning Golang.
+- 📄 Know about my experiences [https://www.linkedin.com/in/mkrasicka](https://www.linkedin.com/in/mkrasicka))
 
-- 🎤 My favourite web developer podcast **- Syntax**
 
-- 📫 How to reach me [krasickamagdalena@gmail.com](krasickamagdalena@gmail.com)
+- I've contributed to:
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/magdalena-krasicka-339476206/](https://www.linkedin.com/in/magdalena-krasicka-339476206/)
+  - **SeekASneaker** - AirBnb clone - Ruby on Rails
+  
+  - **GimmeGolf** - Full-stack Ruby on Rails web app
+  
 
-- 🏌🏼‍♂️ Full-stack Ruby on Rails web app (group project) **GimmeGolf**
+- I’m currently:
 
-- 👨‍💻 All of my projects are available at **https://magdalenakrasicka.com/**
+  -  learning Golang and building project Books
+
+  -  building project Task Manager in Ruby
+  
+
+- 🔭 I'm looking forward to polish JS, and start working with AWS, and React.
+
+
+- 🎤 My favourite web developer podcast **Syntax**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
