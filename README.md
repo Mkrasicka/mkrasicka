@@ -3,9 +3,9 @@
 
 - 👨‍💻 My portfolio:  **https://magdalenakrasicka.com/**
 
-- E-mail: krasickamagdalena@gmail.com](krasickamagdalena@gmail.com)
+- E-mail: krasickamagdalena@gmail.com]
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mkrasicka](https://www.linkedin.com/in/mkrasicka))
+- 📄 Know about my experiences [https://www.linkedin.com/in/mkrasicka]
 
 
 - I've contributed to:
