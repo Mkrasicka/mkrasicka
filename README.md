@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Magdalena</h1>
-**https://magdalenakrasicka.com/**
+
 <h3 align="center">I recently completed the Web Developer bootcamp at Le Wagon and am currently seeking my first opportunity as a Web Developer.</h3>
+
+Visit my portfolio: https://magdalenakrasicka.com/
 
 🌍 I'm based in London, UK 
 
 ⚡ Currenly building Task Manager Project and learning Javascript.
-
-
 
 📨 Reach out by e-mail: krasickamagdalena@gmail.com
 
